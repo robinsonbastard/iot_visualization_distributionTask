@@ -1,0 +1,5 @@
+H:\study\iot_visualization\test1\bin\Release\net6.0\publish\test1.exe
+H:\study\iot_visualization\test1\bin\Release\net6.0\publish\test1.dll
+H:\study\iot_visualization\test1\bin\Release\net6.0\publish\test1.deps.json
+H:\study\iot_visualization\test1\bin\Release\net6.0\publish\test1.runtimeconfig.json
+H:\study\iot_visualization\test1\bin\Release\net6.0\publish\test1.pdb

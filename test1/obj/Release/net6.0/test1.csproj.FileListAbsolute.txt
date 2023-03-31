@@ -1,0 +1,15 @@
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.csproj.AssemblyReference.cache
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.AssemblyInfoInputs.cache
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.AssemblyInfo.cs
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.csproj.CoreCompileInputs.cache
+H:\study\iot_visualization\test1\bin\Release\net6.0\test1.exe
+H:\study\iot_visualization\test1\bin\Release\net6.0\test1.deps.json
+H:\study\iot_visualization\test1\bin\Release\net6.0\test1.runtimeconfig.json
+H:\study\iot_visualization\test1\bin\Release\net6.0\test1.dll
+H:\study\iot_visualization\test1\bin\Release\net6.0\test1.pdb
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.dll
+H:\study\iot_visualization\test1\obj\Release\net6.0\refint\test1.dll
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.pdb
+H:\study\iot_visualization\test1\obj\Release\net6.0\test1.genruntimeconfig.cache
+H:\study\iot_visualization\test1\obj\Release\net6.0\ref\test1.dll
