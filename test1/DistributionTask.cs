@@ -1,18 +1,36 @@
-﻿
+﻿using NUnitLite;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using NUnitLite;
 
-namespace test1
+namespace DistributionTask
 {
-    internal class Program
+    internal class DistributionTask
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            var testsToRun = new string[]
+            {
+                "DistributionTask.DistributionTaskTests",
+            };
+
+            new AutoRun().Execute(new[]
+            {
+                "--stoponerror",
+                "--noresult",
+                "--test=" + string.Join(",", testsToRun)
+            });
+
             var truckCapacity = 40;
             Console.WriteLine("Чтобы выйти, нажмите enter");
             while (true)
             {
                 Console.Write("Введите количество заказов: ");
-                var temporalInput = Console.ReadLine();
-                if (temporalInput == null) return;
+                var temporalInput = ReadDigitsFromConsole();
+                if (temporalInput == string.Empty) return;
                 else
                 {
                     var result = MakeOptimalDistribution(Int32.Parse(temporalInput), truckCapacity);
@@ -41,7 +59,7 @@ namespace test1
 
         public static string ReadDigitsFromConsole()
         {
-            string result = null;
+            var result = string.Empty;
             while (true)
             {
                 ConsoleKeyInfo key = Console.ReadKey(true);

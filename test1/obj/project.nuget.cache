@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6uKms+6DLgKUbpVHBybw/V1Bj6rNcSSvMBviKjtKIBm6KOG8dz8QzQif645miHt7CHUI1l6M2IN38YJwqkSMYg==",
+  "dgSpecHash": "mtbMlBpysqFrxvMzLFZY5/fKCsUviOgO4Pkm1LZY1i5MV/c1xVQEKIAa4DsFhrP7mn9gJVYpk7QTkmv0c4PECw==",
   "success": true,
-  "projectFilePath": "H:\\study\\iot_visualization\\test1\\test1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\railshiit\\iot_visualization_distributionTask\\test1\\test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kravt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kravt\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\kravt\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\kravt\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\kravt\\.nuget\\packages\\nunitlite\\3.13.3\\nunitlite.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }

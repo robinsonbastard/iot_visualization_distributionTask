@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\study\\iot_visualization\\test1\\test1.csproj": {}
+    "F:\\railshiit\\iot_visualization_distributionTask\\test1\\test1.csproj": {}
   },
   "projects": {
-    "H:\\study\\iot_visualization\\test1\\test1.csproj": {
+    "F:\\railshiit\\iot_visualization_distributionTask\\test1\\test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\study\\iot_visualization\\test1\\test1.csproj",
+        "projectUniqueName": "F:\\railshiit\\iot_visualization_distributionTask\\test1\\test1.csproj",
         "projectName": "test1",
-        "projectPath": "H:\\study\\iot_visualization\\test1\\test1.csproj",
-        "packagesPath": "C:\\Users\\railj\\.nuget\\packages\\",
-        "outputPath": "H:\\study\\iot_visualization\\test1\\obj\\",
+        "projectPath": "F:\\railshiit\\iot_visualization_distributionTask\\test1\\test1.csproj",
+        "packagesPath": "C:\\Users\\kravt\\.nuget\\packages\\",
+        "outputPath": "F:\\railshiit\\iot_visualization_distributionTask\\test1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\railj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kravt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "NUnitLite": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
