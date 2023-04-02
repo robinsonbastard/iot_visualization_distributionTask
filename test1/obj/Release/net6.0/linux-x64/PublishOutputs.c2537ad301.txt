@@ -1,3 +1,0 @@
-F:\railshiit\iot_visualization_distributionTask\test1\publish_self\test1.pdb
-F:\railshiit\iot_visualization_distributionTask\test1\publish_self\NUnit3.TestAdapter.pdb
-F:\railshiit\iot_visualization_distributionTask\test1\publish_self\test1
